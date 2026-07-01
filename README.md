@@ -10,7 +10,10 @@ The folders found in this repository are the following:
 
 ## Citing
 
-If you use parts of the code in this repository, please cite the Navarro-Delgado E., et al., 2024. publication. 
+If you use parts of the code in this repository, please cite Navarro-Delgado,
+E.I., et al. RAMEN: Dissecting individual, additive and interactive
+gene-environment contributions to DNA methylome variability in cord
+blood. Genome Biol 26, 421 (2025).
 
 ## Contact
 
